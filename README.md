@@ -11,3 +11,8 @@ https://help.ovhcloud.com/csm/en-gb-public-cloud-kubernetes-create-cluster-with-
 ```
 https://medium.com/@akilblanchard09/creating-aws-ec2-instances-with-ssh-access-using-terraform-f9c3c2996cbd
 ```
+
+### pulumi
+```
+https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift
+```
