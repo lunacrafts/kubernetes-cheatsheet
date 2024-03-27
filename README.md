@@ -25,3 +25,9 @@ ___
 
 - [https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift](https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift)
 - [https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/](https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/)
+
+___
+
+## Cloudflare
+
+- [https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deploy-tunnels/deployment-guides/kubernetes/](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deploy-tunnels/deployment-guides/kubernetes/)
