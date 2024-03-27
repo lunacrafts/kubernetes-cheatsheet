@@ -25,6 +25,7 @@ ___
 
 - [https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift](https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift)
 - [https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/](https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/)
+- [https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes](https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes)
 
 ___
 
