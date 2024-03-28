@@ -27,6 +27,7 @@ ___
 - [https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/](https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/)
 - [https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes](https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes)
 - [RandomPassword - https://www.pulumi.com/ai/conversations/54968465-a571-45ec-885e-bdb0c2627b04](https://www.pulumi.com/ai/conversations/54968465-a571-45ec-885e-bdb0c2627b04)
+- [https://www.pulumi.com/ai/answers/5qj5F1uVvarsgPKCoYBvpy/automated-docker-image-deployment-with-github-actions](https://www.pulumi.com/ai/answers/5qj5F1uVvarsgPKCoYBvpy/automated-docker-image-deployment-with-github-actions)
 ___
 
 ## Cloudflare
